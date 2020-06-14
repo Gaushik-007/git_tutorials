@@ -1,1 +1,1 @@
-# git_tutorials
+sample repo created for learning git
